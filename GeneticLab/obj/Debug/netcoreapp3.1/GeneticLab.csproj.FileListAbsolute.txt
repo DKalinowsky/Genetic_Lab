@@ -1,0 +1,13 @@
+C:\Users\dkali\source\repos\GeneticLab\bin\Debug\netcoreapp3.1\GeneticLab.exe
+C:\Users\dkali\source\repos\GeneticLab\bin\Debug\netcoreapp3.1\GeneticLab.deps.json
+C:\Users\dkali\source\repos\GeneticLab\bin\Debug\netcoreapp3.1\GeneticLab.runtimeconfig.json
+C:\Users\dkali\source\repos\GeneticLab\bin\Debug\netcoreapp3.1\GeneticLab.runtimeconfig.dev.json
+C:\Users\dkali\source\repos\GeneticLab\bin\Debug\netcoreapp3.1\GeneticLab.dll
+C:\Users\dkali\source\repos\GeneticLab\bin\Debug\netcoreapp3.1\GeneticLab.pdb
+C:\Users\dkali\source\repos\GeneticLab\obj\Debug\netcoreapp3.1\GeneticLab.csprojAssemblyReference.cache
+C:\Users\dkali\source\repos\GeneticLab\obj\Debug\netcoreapp3.1\GeneticLab.AssemblyInfoInputs.cache
+C:\Users\dkali\source\repos\GeneticLab\obj\Debug\netcoreapp3.1\GeneticLab.AssemblyInfo.cs
+C:\Users\dkali\source\repos\GeneticLab\obj\Debug\netcoreapp3.1\GeneticLab.csproj.CoreCompileInputs.cache
+C:\Users\dkali\source\repos\GeneticLab\obj\Debug\netcoreapp3.1\GeneticLab.dll
+C:\Users\dkali\source\repos\GeneticLab\obj\Debug\netcoreapp3.1\GeneticLab.pdb
+C:\Users\dkali\source\repos\GeneticLab\obj\Debug\netcoreapp3.1\GeneticLab.genruntimeconfig.cache
